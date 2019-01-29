@@ -4,3 +4,4 @@
 *.pyc
 .ExternalData*
 .DS_Store
+/build
