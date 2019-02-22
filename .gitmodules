@@ -1,6 +1,3 @@
-[submodule "VTK"]
-	path = VTK
-	url = https://gitlab.kitware.com/vtk/vtk.git
 [submodule "Utilities/VisItBridge"]
 	path = Utilities/VisItBridge
 	url = https://gitlab.kitware.com/paraview/visitbridge.git
@@ -15,3 +12,6 @@
 [submodule "ThirdParty/cinema/vtkcinemapython"]
 	path = ThirdParty/cinema/vtkcinemapython
 	url = https://gitlab.kitware.com/cinema/cinema_python.git
+[submodule "VTK"]
+	path = VTK
+	url = git@github.com:simright/VTK.git
